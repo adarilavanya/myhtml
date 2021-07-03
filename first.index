@@ -1,0 +1,48 @@
+<html>
+    <head>
+        <title>
+            itsoft webpage </title>
+            <link rel="stylesheet" type="text/css" href="css/css.style.txt">
+    </head>
+    <body>
+        <div class="menu-bar">
+            <ul class="email">
+                <li>example@example.com</li>
+                <li>first floor new world</li>
+                <li>9160616557</li>
+            </ul>
+        </div>
+        <div class="main">
+            <img class="logo" src="images/main-logo.jpg"> 
+            <ul class="main-menu">
+                <li>home</li>
+                <li>company</li>
+                <li>services</li>
+                <li>project</li>
+                <li>blog</li>
+                <li>contact</li>
+                
+                
+            </ul>
+        </div>
+        <div class="background">
+            <div class="col1">
+                <h4>Secure & IT Services </h4>
+                <h1>Excellent IT services<span class="redX"></span></h1>
+                <h2>for your success</h2>
+                <p>Pellentesque at posuere tellus phasellus scelerisque porem.</p>
+
+            </div>
+            <div class="col2">
+                <img class="slider-single-img2" src="images/slider-single-img2.png">
+            </div>
+        
+            
+        </div>
+        
+        
+        
+        
+     
+    </body>
+</html>
